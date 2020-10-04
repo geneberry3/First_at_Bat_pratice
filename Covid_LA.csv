@@ -1,0 +1,342 @@
+﻿City,Cases,Case_rate,Deaths,Death_rate
+Agoura Hills,164,785,1,5
+Alhambra,1292,1490,28,32
+Arcadia,514,890,34,59
+Artesia,383,2280,10,60
+Avalon,6,155,0,0
+Azusa,1570,3137,23,46
+Baldwin Park,3068,3996,89,116
+Bell,1635,4500,41,113
+Bell Gardens,2008,4662,22,51
+Bellflower,2419,3112,60,77
+Beverly Hills,701,2031,12,35
+Bradbury,14,1310,0,0
+Burbank,1613,1505,58,54
+Calabasas,277,1139,12,49
+Carson,1867,1989,63,67
+Cerritos,577,1152,17,34
+Claremont,391,1072,10,27
+Commerce,596,4560,12,92
+Compton,4105,4109,72,72
+Covina,1443,2943,46,94
+Cudahy,1119,4596,18,74
+Culver City,396,993,29,73
+Diamond Bar,559,972,10,17
+Downey,4207,3682,87,76
+Duarte,578,2625,30,136
+El Monte,4423,3772,164,140
+El Segundo,132,786,1,6
+Gardena,1273,2076,53,86
+Glendale,3854,1866,178,86
+Glendora,1270,2407,73,138
+Hawaiian Gardens,538,3666,2,14
+Hawthorne,1968,2217,47,53
+Hermosa Beach,217,1103,4,20
+Hidden Hills,8,423,0,0
+Huntington Park,2995,5035,59,99
+Industry,36,8238,2,458
+Inglewood,2910,2562,91,80
+Irwindale,68,4661,2,137
+La Canada Flintridge,185,894,7,34
+La Habra Heights,44,807,0,0
+La Mirada,864,1742,26,52
+La Puente,1544,3794,23,57
+La Verne,490,1472,12,36
+Lakewood,1319,1641,14,17
+Lancaster,3536,2189,58,36
+Lawndale,642,1910,11,33
+Lomita,241,1163,9,43
+Lynwood,3378,4689,102,142
+Malibu,104,802,3,23
+Manhattan Beach,365,1014,5,14
+Maywood,1458,5198,33,118
+Monrovia,766,1974,41,106
+Montebello,2351,3652,52,81
+Monterey Park,981,1576,47,75
+Norwalk,3334,3098,79,73
+Palmdale,4225,2658,76,48
+Palos Verdes Estates,101,747,2,15
+Paramount,2444,4362,29,52
+Pico Rivera,2464,3833,75,117
+Pomona,5608,3596,134,86
+Rancho Palos Verdes,314,735,13,30
+Redondo Beach,564,821,11,16
+Rolling Hills,12,619,0,0
+Rolling Hills Estates,43,530,2,25
+Rosemead,842,1521,32,58
+San Dimas,541,1567,14,41
+San Fernando,961,3905,19,77
+San Gabriel,658,1607,64,156
+San Marino,91,685,2,15
+Santa Clarita,3575,1622,54,24
+Santa Fe Springs,575,3131,4,22
+Santa Monica,894,967,41,44
+Sierra Madre,78,710,3,27
+Signal Hill,281,2382,3,25
+South El Monte,808,3869,16,77
+South Gate,4522,4607,69,70
+South Pasadena,289,1109,26,100
+Temple City,537,1473,41,112
+Torrance,1455,975,70,47
+Vernon,12,5742,0,0
+Walnut,280,917,4,13
+West Covina,2955,2730,66,61
+West Hollywood,580,1570,5,14
+Westlake Village,34,407,0,0
+Whittier,2297,2627,36,41
+Los Angeles,110844,2741,2796,69
+Adams-Normandie,269,3280,4,49
+Alsace,379,3045,3,24
+Angeles National Forest,2,5000,0,0
+Angelino Heights,76,3038,1,40
+Arleta,1485,4321,26,76
+Atwater Village,242,1650,7,48
+Baldwin Hills,622,1998,28,90
+Bel Air,95,1127,0,0
+Beverly Crest,129,1030,2,16
+Beverlywood,168,1275,0,0
+Boyle Heights,4322,4974,69,79
+Brentwood,298,963,3,10
+Brookside,3,516,0,0
+Cadillac-Corning,133,1868,1,14
+Canoga Park,1943,2976,58,89
+Carthay,221,1539,15,104
+Central,2195,5629,41,105
+Century City,119,930,0,0
+Century Palms/Cove,1509,4469,22,65
+Chatsworth,688,1856,35,94
+Cheviot Hills,82,894,2,22
+Chinatown,120,1496,3,37
+Cloverdale/Cochran,303,2082,5,34
+Country Club Park,372,2455,27,178
+Crenshaw District,306,2213,3,22
+Crestview,193,1698,20,176
+Del Rey,361,1206,10,33
+Downtown,833,3028,15,55
+Eagle Rock,681,1720,25,63
+East Hollywood,641,2189,43,147
+Echo Park,259,1817,4,28
+El Sereno,1262,3019,35,84
+Elysian Park,98,1716,0,0
+Elysian Valley,266,2615,3,29
+Encino,621,1375,18,40
+Exposition,81,2435,2,60
+Exposition Park,1352,3010,23,51
+Faircrest Heights,37,1028,2,56
+Figueroa Park Square,315,3612,4,46
+Florence-Firestone,2355,4964,28,59
+Glassell Park,717,2269,14,44
+Gramercy Place,254,2360,4,37
+Granada Hills,1231,2115,65,112
+Green Meadows,954,4436,14,65
+Hancock Park,239,1403,3,18
+Harbor City,510,1754,11,38
+Harbor Gateway,1007,2310,15,34
+Harbor Pines,23,955,0,0
+Harvard Heights,568,3149,24,133
+Harvard Park,1653,4357,24,63
+Highland Park,1126,2327,20,41
+Historic Filipinotown,447,3223,15,108
+Hollywood,1236,1811,14,21
+Hollywood Hills,305,1036,7,24
+Hyde Park,812,2845,14,49
+Jefferson Park,255,3159,0,0
+Koreatown,1192,2306,33,64
+Lafayette Square,84,1843,3,66
+Lake Balboa,1068,2530,20,47
+Lakeview Terrace,564,4295,23,175
+Leimert Park,319,2094,8,53
+Lincoln Heights,1087,3335,46,141
+Little Armenia,398,4960,52,648
+Little Bangladesh,501,1768,6,21
+Little Tokyo,93,2968,2,64
+Longwood,117,2718,0,0
+Los Feliz,214,990,2,9
+Manchester Square,195,2284,5,59
+Mandeville Canyon,27,864,0,0
+Mar Vista,327,770,6,14
+Marina Peninsula,37,849,0,0
+Melrose,1967,2532,72,93
+Mid-city,283,1883,24,160
+Miracle Mile,184,1023,6,33
+Mission Hills,810,3358,43,178
+Mt. Washington,560,2319,16,66
+North Hills,1867,3032,46,75
+North Hollywood,4006,2646,69,46
+Northridge,1460,2092,43,62
+Pacific Palisades,134,629,4,19
+Pacoima,3548,4609,50,65
+Palisades Highlands,29,754,0,0
+Palms,556,1267,30,68
+Panorama City,3003,3991,89,118
+Park La Brea,111,817,1,7
+Pico-Union,1823,4357,89,213
+Playa Del Rey,29,907,0,0
+Playa Vista,143,1306,0,0
+Porter Ranch,388,1090,6,17
+Rancho Park,90,1372,0,0
+Regent Square,30,1079,0,0
+Reseda,2222,2900,84,110
+Reseda Ranch,118,2545,0,0
+Reynier Village,39,922,0,0
+San Pedro,1962,2514,29,37
+Shadow Hills,67,1508,0,0
+Sherman Oaks,1107,1269,27,31
+Silverlake,631,1431,18,41
+South Carthay,126,1189,2,19
+South Park,2060,5427,28,74
+St Elmo Village,155,3381,8,175
+Studio City,254,1132,8,36
+Sun Valley,1702,3243,30,57
+Sunland,470,2303,30,147
+Sycamore Square,7,1082,0,0
+Sylmar,3337,4050,84,102
+Tarzana,684,2215,37,120
+Temple-Beaudry,1255,3179,29,73
+Thai Town,161,1641,2,20
+Toluca Lake,108,1241,0,0
+Toluca Terrace,23,1761,1,77
+Toluca Woods,21,1130,0,0
+Tujunga,527,1895,14,50
+University Hills,53,1546,1,29
+University Park,1178,4291,20,73
+Valley Glen,680,2265,21,70
+Valley Village,536,2168,25,101
+Van Nuys,3076,3301,93,100
+Venice,299,882,3,9
+Vermont Knolls,722,4198,16,93
+Vermont Square,346,4519,4,52
+Vermont Vista,1932,4691,26,63
+Vernon Central,3033,5833,43,83
+Victoria Park,219,2607,4,48
+View Heights,46,1245,3,81
+Watts,1977,4633,32,75
+Wellington Square,126,2564,2,41
+West Adams,903,3268,41,148
+West Hills,550,1357,30,74
+West Los Angeles,508,1350,15,40
+West Vernon,2391,4457,51,95
+Westchester,426,826,15,29
+Westlake,2418,4074,144,243
+Westwood,402,743,6,11
+Wholesale District,2421,6701,27,75
+Wilmington,1807,3199,24,42
+Wilshire Center,1119,2230,37,74
+Winnetka,1278,2468,20,39
+Woodland Hills,941,1383,34,50
+Acton,73,916,2,25
+Agua Dulce,28,673,0,0
+Altadena,730,1674,15,34
+Anaverde,16,1061,0,0
+Angeles National Forest,6,482,0,0
+Arcadia,94,1178,3,38
+Athens-Westmont,1557,3669,27,64
+Athens Village,245,5003,10,204
+Avocado Heights,300,4428,4,59
+Azusa,521,3272,4,25
+Bassett,668,4508,9,61
+Bouquet Canyon,9,839,1,93
+Bradbury,4,3704,1,926
+Canyon Country,143,1850,0,0
+Castaic,2091,7690,4,15
+Cerritos,18,3066,0,0
+Charter Oak,0,0,0,0
+Claremont,24,3419,3,427
+Covina,459,2729,7,42
+Covina (Charter Oak),318,2419,2,15
+Del Aire,76,1730,2,46
+Del Rey,3,943,0,0
+Del Sur,19,787,1,41
+Desert View Highlands,49,1966,1,40
+Duarte,154,3478,4,90
+East Covina,4,1216,0,0
+East La Mirada,102,1927,1,19
+East Lancaster,0,0,0,0
+East Los Angeles,6419,5124,105,84
+East Pasadena,83,1296,2,31
+East Rancho Dominguez,690,4507,16,105
+East Whittier,92,1734,0,0
+El Camino Village,148,1684,3,34
+El Monte,6,4138,0,0
+Elizabeth Lake,7,421,0,0
+Florence-Firestone,3479,5377,54,83
+Franklin Canyon,0,0,0,0
+Glendora,13,1970,0,0
+Hacienda Heights,1061,1897,17,30
+Harbor Gateway,0,0,0,0
+Hawthorne,60,2387,0,0
+Hi Vista,8,729,0,0
+Kagel/Lopez Canyons,39,2762,1,71
+La Crescenta-Montrose,206,1040,2,10
+La Habra Heights,4,592,0,0
+La Rambla,78,3759,12,578
+La Verne,34,1667,0,0
+Ladera Heights,99,1400,3,42
+Lake Hughes,4,599,0,0
+Lake Los Angeles,241,1855,4,31
+Lake Manor,24,1461,0,0
+Lakewood,0,0,0,0
+Lennox,708,3141,6,27
+Leona Valley,20,1142,0,0
+Littlerock,85,2114,1,25
+Littlerock/Juniper Hills,11,848,0,0
+Littlerock/Pearblossom,94,2634,0,0
+Llano,3,342,0,0
+Marina del Rey,72,765,1,11
+Miracle Mile,0,0,0,0
+Monrovia,82,2113,0,0
+Newhall,14,6364,0,0
+North Lancaster,19,1586,0,0
+North Whittier,216,2584,10,120
+Northeast San Gabriel,348,1448,8,33
+Padua Hills,3,1395,0,0
+Palmdale,21,2494,0,0
+Palos Verdes Peninsula,3,483,0,0
+Pearblossom/Llano,24,1227,1,51
+Pellissier Village,31,5008,0,0
+Placerita Canyon,0,0,0,0
+Pomona,16,826,1,52
+Quartz Hill,183,1418,11,85
+Rancho Dominguez,74,2781,2,75
+Roosevelt,11,1182,0,0
+Rosewood,32,2488,0,0
+Rosewood/East Gardena,30,2515,1,84
+Rosewood/West Rancho Dominguez,110,3273,0,0
+Rowland Heights,691,1354,15,29
+San Clemente Island,0,0,0,0
+San Francisquito Canyon/Bouquet Canyon,0,0,0,0
+San Jose Hills,749,3704,14,69
+San Pasqual,10,491,0,0
+Sand Canyon,7,2273,0,0
+Santa Catalina Island,25,9363,0,0
+Santa Monica Mountains*,120,644,1,5
+Saugus,28,18065,0,0
+Saugus/Canyon Country,4,1124,0,0
+South Antelope Valley,6,1319,0,0
+South El Monte,91,5070,0,0
+South San Gabriel,175,1978,5,57
+South Whittier,1838,3104,34,57
+Southeast Antelope Valley,14,1793,0,0
+Stevenson Ranch,171,816,2,10
+Sun Village,166,2750,2,33
+Sunrise Village,53,4090,0,0
+Twin Lakes/Oat Mountain,12,724,1,60
+Val Verde,78,2357,1,30
+Valencia,47,1530,1,33
+Valinda,761,3256,9,39
+View Park/Windsor Hills,145,1246,3,26
+Walnut Park,722,4473,13,81
+West Antelope Valley,5,331,0,0
+West Carson,449,2033,36,163
+West Chatsworth,0,0,0,0
+West LA,44,4622,2,210
+West Puente Valley,400,4067,3,31
+West Rancho Dominguez,22,1619,3,221
+West Whittier/Los Nietos,995,3695,15,56
+Westfield/Academy Hills,8,615,0,0
+Westhills,9,1073,0,0
+White Fence Farms,45,1222,0,0
+Whittier,70,1850,3,79
+Whittier Narrows,3,25000,0,0
+Willowbrook,1481,4242,21,60
+Wiseburn,129,2140,1,17
