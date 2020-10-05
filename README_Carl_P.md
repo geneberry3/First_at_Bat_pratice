@@ -1,0 +1,3 @@
+Was having an issue with the linear regression of the data.  Gave me some really weird graphs as you will see with the LA temp and case data.  However, was able to do some of the correlation data between temp and number of cases.  For LA data it is close to 1.0 which means there maybe a close correlation, but with Chicago data there was no correlation.  If someone can adjust the xaxis and yaxis on the graphs, that would help.  I have included the code.  The code for the corrlation data was added. 
+  Thanks,
+   Carl P.
